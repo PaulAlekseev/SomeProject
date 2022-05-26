@@ -1,0 +1,3 @@
+*.out
+Tests.cpp
+sfml-app
